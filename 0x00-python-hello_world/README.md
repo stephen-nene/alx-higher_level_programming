@@ -1,3 +1,9 @@
+# Python - Hello, World
+
+In this project, I began practicing using the interpreter, printing text
+and variables, and indexing and slicing strings in Python.
+
+|------------------------------------- |
 The Zen of Python, by Tim Peters
 
 Beautiful is better than ugly.
@@ -19,3 +25,11 @@ Although never is often better than *right* now.
 If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
+
+
+# [![BuiltBy](https://img.shields.io/badge/Built-By-GE7A10?style=flat-square&logo=BuzzFeed&logoColor=white)](https://github.com/stephen-nene)
+- **[stevo-nene](https://github.com/stephen-nene)**
+
+## Copyright
+
+- **NeneCorp** **&copy; 2023**
