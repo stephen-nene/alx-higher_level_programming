@@ -1,11 +1,11 @@
-# 0x01. Python - if/else, loops, functions
+# Python - Data Structures: Lists, Tuples
 
 In this project, I began practicing using the interpreter, printing text
 and variables, and indexing and slicing strings in Python.
 
 ##
 
-![img](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/233/code.png)
+![img](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/7e7834b535261d05532fb80a9304f7051c4ad7ac.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230812%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230812T055938Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3805134fe150e8f2ec67b3be949ff6af6fd8e7b989235152516d96a65da0b3b1)
  
 
 ## Resources
